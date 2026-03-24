@@ -10,7 +10,7 @@
 - view history items
 - click item and copy it's content
 
-本程序只依赖 luci-base，由于是第一次开发编译和构建 openwrt ipk 插件，构建出来的 ipk 应该是架构无关的，在（ImmortalWrt 24.10.1 on x86_64）架构上测试成功安装和使用，如有问题欢迎提 issue 交流。
+本程序只依赖 luci-base，由于是第一次开发编译和构建 openwrt ipk 插件，构建出来的 ipk 是架构无关的，我在（ImmortalWrt 24.10.1 on x86_64）上成功安装和使用，如有问题（如无法安装）欢迎提 issue 交流。
 
 ## 安装使用方法
 

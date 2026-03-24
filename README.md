@@ -14,7 +14,7 @@
 
 ## 安装使用方法
 
-事先将 relase 中的 ipk 文件拷贝到系统，在正确目录执行以下命令安装
+事先将 release 中的 ipk 文件拷贝到系统，在正确目录执行以下命令安装
 
 opkg install ./luci-app-pasteanytext_1.1-r4_all.ipk
 

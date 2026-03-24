@@ -21,3 +21,7 @@ opkg install ./luci-app-pasteanytext_1.1-r4_all.ipk
 重启 rpcd 服务后登录 LuCI WEB 查看“服务”目录下的 pasteanytext 即可使用
 
 /etc/init.d/rpcd restart
+
+## 界面截图
+
+![pasteanytext文本传送ipk使用截图.jpg](https://image.940304.xyz/i/2026/03/24/69c237d1d5b89.jpg)

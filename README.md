@@ -12,6 +12,10 @@
 
 本程序只依赖 luci-base，由于是第一次开发编译和构建 openwrt ipk 插件，构建出来的 ipk 是架构无关的，我在（ImmortalWrt 24.10.1 on x86_64）上成功安装和使用，如有问题（如无法安装）欢迎提 issue 交流。
 
+### 下载量统计
+
+![GitHub release downloads](https://img.shields.io/github/downloads/hellodk34/luci-app-pasteanytext/v1.1-r4/total)
+
 ## 安装使用方法
 
 事先将 release 中的 ipk 文件拷贝到系统，在正确目录执行以下命令安装
